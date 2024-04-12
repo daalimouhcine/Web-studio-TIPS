@@ -371,11 +371,7 @@
               "styleboxWidth": 416,
               "styleboxHeight": 90,
               "enableMosaic": false,
-              "enableFlex": true,
-              "flexProps": {
-                "nbOfRows": 2,
-                "nbOfColumns": 1
-              }
+              "styleboxPercentWidth": ""
             }
           },
           "displayName": "Matrix",
@@ -1335,11 +1331,7 @@
               "styleboxWidth": 234,
               "styleboxHeight": 234,
               "enableMosaic": true,
-              "enableFlex": false,
-              "flexProps": {
-                "nbOfRows": 2,
-                "nbOfColumns": 3
-              }
+              "styleboxPercentWidth": ""
             },
             "currentElement": "employee"
           },
@@ -4705,11 +4697,7 @@
               "styleboxWidth": 523,
               "styleboxHeight": 62,
               "enableMosaic": false,
-              "enableFlex": true,
-              "flexProps": {
-                "nbOfRows": 3,
-                "nbOfColumns": 1
-              }
+              "styleboxPercentWidth": ""
             },
             "currentElement": ""
           },
@@ -6677,11 +6665,7 @@
               "styleboxWidth": 562,
               "styleboxHeight": 100,
               "enableMosaic": false,
-              "enableFlex": true,
-              "flexProps": {
-                "nbOfRows": 1,
-                "nbOfColumns": 1
-              }
+              "styleboxPercentWidth": ""
             }
           },
           "displayName": "Matrix",
@@ -7027,11 +7011,7 @@
               "styleboxWidth": 50,
               "styleboxHeight": 45,
               "enableMosaic": true,
-              "enableFlex": false,
-              "flexProps": {
-                "nbOfRows": 1,
-                "nbOfColumns": 4
-              }
+              "styleboxPercentWidth": ""
             },
             "iterator": "$employee",
             "currentElement": ""
@@ -7642,11 +7622,7 @@
               "styleboxWidth": 150,
               "styleboxHeight": 42,
               "enableMosaic": false,
-              "enableFlex": true,
-              "flexProps": {
-                "nbOfRows": 2,
-                "nbOfColumns": 1
-              }
+              "styleboxPercentWidth": ""
             }
           },
           "displayName": "Matrix",
@@ -9395,11 +9371,7 @@
               "styleboxWidth": 228,
               "styleboxHeight": 130,
               "enableMosaic": false,
-              "enableFlex": true,
-              "flexProps": {
-                "nbOfRows": 5,
-                "nbOfColumns": 1
-              }
+              "styleboxPercentWidth": ""
             },
             "currentElement": "declinedNotif"
           },
@@ -11084,11 +11056,7 @@
               "styleboxWidth": 37,
               "styleboxHeight": 72,
               "enableMosaic": true,
-              "enableFlex": true,
-              "flexProps": {
-                "nbOfRows": 4,
-                "nbOfColumns": 7
-              }
+              "styleboxPercentWidth": ""
             },
             "currentElement": ""
           },
@@ -13565,11 +13533,7 @@
               "styleboxWidth": 171,
               "styleboxHeight": 51,
               "enableMosaic": false,
-              "enableFlex": true,
-              "flexProps": {
-                "nbOfRows": 6,
-                "nbOfColumns": 1
-              }
+              "styleboxPercentWidth": ""
             },
             "currentElement": "onSiteEmp"
           },
@@ -13987,11 +13951,7 @@
               "styleboxWidth": 150,
               "styleboxHeight": 51,
               "enableMosaic": true,
-              "enableFlex": true,
-              "flexProps": {
-                "nbOfRows": 6,
-                "nbOfColumns": 1
-              }
+              "styleboxPercentWidth": ""
             },
             "currentElement": "employee"
           },
@@ -14253,11 +14213,7 @@
               "styleboxWidth": 169,
               "styleboxHeight": 51,
               "enableMosaic": false,
-              "enableFlex": true,
-              "flexProps": {
-                "nbOfRows": 6,
-                "nbOfColumns": 1
-              }
+              "styleboxPercentWidth": ""
             },
             "currentElement": "remoteEmp"
           },
@@ -15393,11 +15349,7 @@
               "styleboxWidth": 647,
               "styleboxHeight": 144,
               "enableMosaic": false,
-              "enableFlex": true,
-              "flexProps": {
-                "nbOfRows": 6,
-                "nbOfColumns": 1
-              }
+              "styleboxPercentWidth": ""
             },
             "iterator": "$building"
           },
@@ -16046,11 +15998,7 @@
               "styleboxWidth": 647,
               "styleboxHeight": 100,
               "enableMosaic": false,
-              "enableFlex": true,
-              "flexProps": {
-                "nbOfRows": 9,
-                "nbOfColumns": 1
-              }
+              "styleboxPercentWidth": ""
             }
           },
           "displayName": "Matrix",
@@ -16641,11 +16589,7 @@
               "styleboxWidth": 647,
               "styleboxHeight": 100,
               "enableMosaic": false,
-              "enableFlex": true,
-              "flexProps": {
-                "nbOfRows": 9,
-                "nbOfColumns": 1
-              }
+              "styleboxPercentWidth": ""
             }
           },
           "displayName": "Matrix",

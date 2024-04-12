@@ -3482,7 +3482,7 @@
             "datasource": "#datasource#",
             "gridProps": {
               "enableMosaic": true,
-              "styleboxHeight": 32,
+              "styleboxHeight": 322,
               "styleboxPercentWidth": "",
               "styleboxWidth": 324
             }

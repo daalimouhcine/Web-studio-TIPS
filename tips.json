@@ -27,6 +27,15 @@
     }
   },
   {
+    "key": "editors:webform:canvas:toolbar:dialogs",
+    "type": "text",
+    "body": "**Dialog - A Dialog is designed as a popup overlay to streamline user engagement by rendering additional content.**\n\nCheck the [Documentation](https://developer.qodly.com/docs/studio/pageLoaders/components/dialog) to learn how to set up dialogs (overlay, draggable, closable, animated ...).",
+    "video": {
+      "provider": "",
+      "link": ""
+    }
+  },
+  {
     "key": "editors:webform:toolbox:components",
     "type": "text",
     "body": "**Components - Building Powerful UI Elements**\n\n[Components](https://developer.qodly.com/docs/studio/pageLoaders/components/componentsBasics) are the core building blocks of your application's UI, ready to be drag-and-dropped into your page.\n\nAmong these components, some function as containers, allowing you to nest other components or containers within them.",
@@ -348,6 +357,15 @@
     "video": {
       "provider": "youtube",
       "link": "https://www.youtube.com/embed/QCEaECArjWg"
+    }
+  },
+  {
+    "key": "editors:webform:toolbox:states",
+    "type": "text",
+    "body": "**Page states** \n\nWeb applications often need to change how pages look or behave based on different scenarios, user interactions, or conditions. Manage dynamic UIs with [pages states](https://developer.qodly.com/docs/studio/pageLoaders/states/stateOverview).",
+    "video": {
+      "provider": "",
+      "link": ""
     }
   },
   {
